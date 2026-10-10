@@ -1,0 +1,978 @@
+[
+  {
+    "n": 1,
+    "id": "hf-search:2210.03629",
+    "url": "https://huggingface.co/papers/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "hf-search:2205.00445",
+    "url": "https://huggingface.co/papers/2205.00445",
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "2022-05-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "hf-search:2211.10435",
+    "url": "https://huggingface.co/papers/2211.10435",
+    "title": "PAL: Program-aided Language Models",
+    "date": "2022-11-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "hf-search:2211.12588",
+    "url": "https://huggingface.co/papers/2211.12588",
+    "title": "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks",
+    "date": "2022-11-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "hf-search:2302.04761",
+    "url": "https://huggingface.co/papers/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "hf-search:2305.15334",
+    "url": "https://huggingface.co/papers/2305.15334",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "hf-search:2406.18518",
+    "url": "https://huggingface.co/papers/2406.18518",
+    "title": "APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets",
+    "date": "2024-06-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "hf-search:2409.00920",
+    "url": "https://huggingface.co/papers/2409.00920",
+    "title": "ToolACE: Winning the Points of LLM Function Calling",
+    "date": "2024-09-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "arxiv:2304.08244",
+    "url": "https://arxiv.org/abs/2304.08244",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "2023-04-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "hf-search:2306.05301",
+    "url": "https://huggingface.co/papers/2306.05301",
+    "title": "ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases",
+    "date": "2023-06-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "hf-search:2406.12045",
+    "url": "https://huggingface.co/papers/2406.12045",
+    "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "date": "2024-06-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "hf-search:2506.07982",
+    "url": "https://huggingface.co/papers/2506.07982",
+    "title": "τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+    "date": "2025-06-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "arxiv:2408.04682",
+    "url": "https://arxiv.org/abs/2408.04682",
+    "title": "ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities",
+    "date": "2024-08-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "hf-search:2311.10775",
+    "url": "https://huggingface.co/papers/2311.10775",
+    "title": "ToolTalk: Evaluating Tool-Usage in a Conversational Setting",
+    "date": "2023-11-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "hf-search:2308.03688",
+    "url": "https://huggingface.co/papers/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2023-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "hf-search:2307.13854",
+    "url": "https://huggingface.co/papers/2307.13854",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2023-07-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "hf-search:2311.12983",
+    "url": "https://huggingface.co/papers/2311.12983",
+    "title": "GAIA: a benchmark for General AI Assistants",
+    "date": "2023-11-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "hf-search:2310.06770",
+    "url": "https://huggingface.co/papers/2310.06770",
+    "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+    "date": "2023-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "arxiv:2410.07095",
+    "url": "https://arxiv.org/abs/2410.07095",
+    "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+    "date": "2024-10-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "hf-search:2507.02825",
+    "url": "https://huggingface.co/papers/2507.02825",
+    "title": "Establishing Best Practices for Building Rigorous Agentic Benchmarks",
+    "date": "2025-07-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "hf-search:2607.02577",
+    "url": "https://huggingface.co/papers/2607.02577",
+    "title": "Benchmarking the Benchmarks: A Validity Audit of Tool-Calling Evaluation",
+    "date": "2026-06-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "hf-search:2602.16666",
+    "url": "https://huggingface.co/papers/2602.16666",
+    "title": "Towards a Science of AI Agent Reliability",
+    "date": "2026-02-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "hf-search:2511.14460",
+    "url": "https://huggingface.co/papers/2511.14460",
+    "title": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning",
+    "date": "2025-11-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "hf-search:2508.19598",
+    "url": "https://huggingface.co/papers/2508.19598",
+    "title": "Encouraging Good Processes Without the Need for Good Answers: Reinforcement Learning for LLM Agent Planning",
+    "date": "2025-08-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "hf-search:2604.17555",
+    "url": "https://huggingface.co/papers/2604.17555",
+    "title": "CoSearch: Joint Training of Reasoning and Document Ranking via Reinforcement Learning for Agentic Search",
+    "date": "2026-04-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "hf-search:2601.11888",
+    "url": "https://huggingface.co/papers/2601.11888",
+    "title": "Agentic-R: Learning to Retrieve for Agentic Search",
+    "date": "2026-01-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "hf-search:2607.05378",
+    "url": "https://huggingface.co/papers/2607.05378",
+    "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+    "date": "2026-07-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "hf-search:2609.35540",
+    "url": "https://huggingface.co/papers/2609.35540",
+    "title": "Continuous Context Management",
+    "date": "2026-09-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 29,
+    "id": "hf-search:2607.00692",
+    "url": "https://huggingface.co/papers/2607.00692",
+    "title": "Self-GC: Self-Governing Context for Long-Horizon LLM Agents",
+    "date": "2026-07-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 30,
+    "id": "hf-search:2406.13352",
+    "url": "https://huggingface.co/papers/2406.13352",
+    "title": "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents",
+    "date": "2024-06-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 31,
+    "id": "hf-search:2403.02691",
+    "url": "https://huggingface.co/papers/2403.02691",
+    "title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+    "date": "2024-03-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 32,
+    "id": "hf-search:2504.18575",
+    "url": "https://huggingface.co/papers/2504.18575",
+    "title": "WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks",
+    "date": "2025-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 33,
+    "id": "hf-search:2506.13538",
+    "url": "https://huggingface.co/papers/2506.13538",
+    "title": "Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers",
+    "date": "2025-06-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 34,
+    "id": "hf-search:2506.01333",
+    "url": "https://huggingface.co/papers/2506.01333",
+    "title": "ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 35,
+    "id": "hf-search:2508.14925",
+    "url": "https://huggingface.co/papers/2508.14925",
+    "title": "MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers",
+    "date": "2025-08-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 36,
+    "id": "hf-search:2610.11169",
+    "url": "https://huggingface.co/papers/2610.11169",
+    "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+    "date": "2026-10-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 37,
+    "id": "hf-search:2601.10338",
+    "url": "https://huggingface.co/papers/2601.10338",
+    "title": "Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale",
+    "date": "2026-01-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 38,
+    "id": "hf-search:2606.15057",
+    "url": "https://huggingface.co/papers/2606.15057",
+    "title": "AutoDojo: Adaptive Attacks Expose Superficial Defenses and User-Underspecification Limits in LLM Agents",
+    "date": "2026-06-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 39,
+    "id": "hf-search:2602.05066",
+    "url": "https://huggingface.co/papers/2602.05066",
+    "title": "Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks",
+    "date": "2026-02-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 40,
+    "id": "hf-search:2405.13966",
+    "url": "https://huggingface.co/papers/2405.13966",
+    "title": "On the Brittle Foundations of ReAct Prompting for Agentic Large Language Models",
+    "date": "2024-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 41,
+    "id": "hf-search:2401.07324",
+    "url": "https://huggingface.co/papers/2401.07324",
+    "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent",
+    "date": "2024-01-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 42,
+    "id": "hf-search:2402.16696",
+    "url": "https://huggingface.co/papers/2402.16696",
+    "title": "Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models",
+    "date": "2024-02-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 43,
+    "id": "hf-search:2305.17126",
+    "url": "https://huggingface.co/papers/2305.17126",
+    "title": "Large Language Models as Tool Makers",
+    "date": "2023-05-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 44,
+    "id": "hf-search:2305.14318",
+    "url": "https://huggingface.co/papers/2305.14318",
+    "title": "CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation",
+    "date": "2023-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 45,
+    "id": "hf-search:2405.16533",
+    "url": "https://huggingface.co/papers/2405.16533",
+    "title": "Chain of Tools: Large Language Model is an Automatic Multi-tool Learner",
+    "date": "2024-05-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 46,
+    "id": "hf-search:2510.19791",
+    "url": "https://huggingface.co/papers/2510.19791",
+    "title": "ToolDreamer: Instilling LLM Reasoning Into Tool Retrievers",
+    "date": "2025-10-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 47,
+    "id": "hf-search:2607.05441",
+    "url": "https://huggingface.co/papers/2607.05441",
+    "title": "PORTS: Preference-Optimized Retrievers for Tool Selection with Large Language Models",
+    "date": "2026-07-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 48,
+    "id": "hf-search:2401.06201",
+    "url": "https://huggingface.co/papers/2401.06201",
+    "title": "EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction",
+    "date": "2024-01-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 49,
+    "id": "hf-search:2510.22670",
+    "url": "https://huggingface.co/papers/2510.22670",
+    "title": "Tools are under-documented: Simple Document Expansion Boosts Tool Retrieval",
+    "date": "2025-10-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 50,
+    "id": "hf-search:2606.12451",
+    "url": "https://huggingface.co/papers/2606.12451",
+    "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+    "date": "2026-06-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 51,
+    "id": "hf-search:2602.14878",
+    "url": "https://huggingface.co/papers/2602.14878",
+    "title": "Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions",
+    "date": "2026-02-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 52,
+    "id": "hf-search:2606.30317",
+    "url": "https://huggingface.co/papers/2606.30317",
+    "title": "MCP Server Architecture Patterns for LLM-Integrated Applications",
+    "date": "2026-06-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 53,
+    "id": "hf-search:2310.07075",
+    "url": "https://huggingface.co/papers/2310.07075",
+    "title": "Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding",
+    "date": "2023-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 54,
+    "id": "hf-search:2407.04997",
+    "url": "https://huggingface.co/papers/2407.04997",
+    "title": "Achieving Tool Calling Functionality in LLMs Using Only Prompt Engineering Without Fine-Tuning",
+    "date": "2024-07-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 55,
+    "id": "hf-search:2510.00229",
+    "url": "https://huggingface.co/papers/2510.00229",
+    "title": "DualTune: Decoupled Fine-Tuning for On-Device Agentic Systems",
+    "date": "2025-09-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 56,
+    "id": "hf-search:2512.16149",
+    "url": "https://huggingface.co/papers/2512.16149",
+    "title": "ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs",
+    "date": "2025-12-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 57,
+    "id": "hf-search:2402.15491",
+    "url": "https://huggingface.co/papers/2402.15491",
+    "title": "API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs",
+    "date": "2024-02-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 58,
+    "id": "hf-search:2604.11557",
+    "url": "https://huggingface.co/papers/2604.11557",
+    "title": "UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents",
+    "date": "2026-04-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 59,
+    "id": "hf-search:2310.03128",
+    "url": "https://huggingface.co/papers/2310.03128",
+    "title": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use",
+    "date": "2023-10-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 60,
+    "id": "hf-search:2410.19743",
+    "url": "https://huggingface.co/papers/2410.19743",
+    "title": "AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction",
+    "date": "2024-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 61,
+    "id": "hf-search:2307.16789",
+    "url": "https://huggingface.co/papers/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 62,
+    "id": "hf-search:2306.06070",
+    "url": "https://huggingface.co/papers/2306.06070",
+    "title": "Mind2Web: Towards a Generalist Agent for the Web",
+    "date": "2023-06-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 63,
+    "id": "hf-search:2411.13547",
+    "url": "https://huggingface.co/papers/2411.13547",
+    "title": "SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs",
+    "date": "2024-11-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 64,
+    "id": "hf-search:2510.04550",
+    "url": "https://huggingface.co/papers/2510.04550",
+    "title": "TRAJECT-Bench: A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use",
+    "date": "2025-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 65,
+    "id": "hf-search:2403.07714",
+    "url": "https://huggingface.co/papers/2403.07714",
+    "title": "StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models",
+    "date": "2024-03-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 66,
+    "id": "hf-search:2409.15523",
+    "url": "https://huggingface.co/papers/2409.15523",
+    "title": "SEAL: Suite for Evaluating API-use of LLMs",
+    "date": "2024-09-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 67,
+    "id": "arxiv:2510.04491",
+    "url": "https://arxiv.org/abs/2510.04491",
+    "title": "Impatient Users Confuse AI Agents: High-fidelity Simulations of Human Traits for Testing Agents",
+    "date": "2025-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 68,
+    "id": "hf-search:2505.15117",
+    "url": "https://huggingface.co/papers/2505.15117",
+    "title": "An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents",
+    "date": "2025-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 69,
+    "id": "hf-search:2510.16724",
+    "url": "https://huggingface.co/papers/2510.16724",
+    "title": "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications",
+    "date": "2025-10-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 70,
+    "id": "hf-search:2303.11366",
+    "url": "https://huggingface.co/papers/2303.11366",
+    "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+    "date": "2023-03-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 71,
+    "id": "hf-search:2510.18798",
+    "url": "https://huggingface.co/papers/2510.18798",
+    "title": "WebSeer: Training Deeper Search Agents through Reinforcement Learning with Self-Reflection",
+    "date": "2025-10-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 72,
+    "id": "hf-search:2501.11425",
+    "url": "https://huggingface.co/papers/2501.11425",
+    "title": "Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training",
+    "date": "2025-01-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 73,
+    "id": "hf-search:2406.01495",
+    "url": "https://huggingface.co/papers/2406.01495",
+    "title": "Re-ReST: Reflection-Reinforced Self-Training for Language Agents",
+    "date": "2024-06-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 74,
+    "id": "hf-search:2607.03702",
+    "url": "https://huggingface.co/papers/2607.03702",
+    "title": "Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry",
+    "date": "2026-07-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 75,
+    "id": "hf-search:2605.29463",
+    "url": "https://huggingface.co/papers/2605.29463",
+    "title": "Honest Lying: Understanding Memory Confabulation in Reflexive Agents",
+    "date": "2026-05-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 76,
+    "id": "hf-search:2509.22601",
+    "url": "https://huggingface.co/papers/2509.22601",
+    "title": "Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning",
+    "date": "2025-09-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 77,
+    "id": "hf-search:2603.08561",
+    "url": "https://huggingface.co/papers/2603.08561",
+    "title": "RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback",
+    "date": "2026-03-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 78,
+    "id": "hf-search:2608.21690",
+    "url": "https://huggingface.co/papers/2608.21690",
+    "title": "Context as an Environment: Programmatic Context Management for Long-Horizon Agents",
+    "date": "2026-08-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 79,
+    "id": "hf-search:2605.05191",
+    "url": "https://huggingface.co/papers/2605.05191",
+    "title": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents",
+    "date": "2026-05-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 80,
+    "id": "hf-search:2508.00031",
+    "url": "https://huggingface.co/papers/2508.00031",
+    "title": "Git Context Controller: Manage the Context of LLM-based Agents like Git",
+    "date": "2025-07-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 81,
+    "id": "hf-search:2606.30005",
+    "url": "https://huggingface.co/papers/2606.30005",
+    "title": "LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via a Proprioceptive Dashboard",
+    "date": "2026-06-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 82,
+    "id": "hf-daily:2610.10549",
+    "url": "https://huggingface.co/papers/2610.10549",
+    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+    "date": "2026-09-24",
+    "source": "hf-daily"
+  },
+  {
+    "n": 83,
+    "id": "hf-search:2602.08847",
+    "url": "https://huggingface.co/papers/2602.08847",
+    "title": "Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems",
+    "date": "2026-02-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 84,
+    "id": "hf-search:2605.02801",
+    "url": "https://huggingface.co/papers/2605.02801",
+    "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
+    "date": "2026-05-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 85,
+    "id": "hf-search:2607.15257",
+    "url": "https://huggingface.co/papers/2607.15257",
+    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+    "date": "2026-07-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 86,
+    "id": "hf-search:2601.04703",
+    "url": "https://huggingface.co/papers/2601.04703",
+    "title": "Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search",
+    "date": "2026-01-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 87,
+    "id": "hf-search:2601.19793",
+    "url": "https://huggingface.co/papers/2601.19793",
+    "title": "CASTER: Breaking the Cost-Performance Barrier in Multi-Agent Orchestration via Context-Aware Strategy for Task Efficient Routing",
+    "date": "2026-01-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 88,
+    "id": "hf-search:2510.21618",
+    "url": "https://huggingface.co/papers/2510.21618",
+    "title": "DeepAgent: A General Reasoning Agent with Scalable Toolsets",
+    "date": "2025-10-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 89,
+    "id": "hf-search:2508.18669",
+    "url": "https://huggingface.co/papers/2508.18669",
+    "title": "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
+    "date": "2025-08-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 90,
+    "id": "hf-search:2604.09666",
+    "url": "https://huggingface.co/papers/2604.09666",
+    "title": "Do We Still Need GraphRAG? Benchmarking RAG and GraphRAG for Agentic Search Systems",
+    "date": "2026-04-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 91,
+    "id": "hf-search:2510.27566",
+    "url": "https://huggingface.co/papers/2510.27566",
+    "title": "Interact-RAG: Reason and Interact with the Corpus, Beyond Black-Box Retrieval",
+    "date": "2025-10-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 92,
+    "id": "hf-search:2602.03442",
+    "url": "https://huggingface.co/papers/2602.03442",
+    "title": "A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces",
+    "date": "2026-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 93,
+    "id": "hf-search:2511.05385",
+    "url": "https://huggingface.co/papers/2511.05385",
+    "title": "TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework",
+    "date": "2025-11-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 94,
+    "id": "hf-search:2507.09477",
+    "url": "https://huggingface.co/papers/2507.09477",
+    "title": "Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs",
+    "date": "2025-07-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 95,
+    "id": "hf-search:2510.13910",
+    "url": "https://huggingface.co/papers/2510.13910",
+    "title": "RAGCap-Bench: Benchmarking Capabilities of LLMs in Agentic Retrieval Augmented Generation Systems",
+    "date": "2025-10-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 96,
+    "id": "hf-search:2607.06273",
+    "url": "https://huggingface.co/papers/2607.06273",
+    "title": "AgentTether: Graph-Guided Diagnosis and Runtime Intervention for Reliable LLM Agent Operation",
+    "date": "2026-07-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 97,
+    "id": "hf-daily:2608.15763",
+    "url": "https://huggingface.co/papers/2608.15763",
+    "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
+    "date": "2026-08-22",
+    "source": "hf-daily"
+  },
+  {
+    "n": 98,
+    "id": "hf-search:2602.20156",
+    "url": "https://huggingface.co/papers/2602.20156",
+    "title": "Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks",
+    "date": "2026-02-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 99,
+    "id": "hf-search:2510.26328",
+    "url": "https://huggingface.co/papers/2510.26328",
+    "title": "Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections",
+    "date": "2025-10-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 100,
+    "id": "hf-search:2506.01055",
+    "url": "https://huggingface.co/papers/2506.01055",
+    "title": "Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution",
+    "date": "2025-06-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 101,
+    "id": "hf-search:2601.17548",
+    "url": "https://huggingface.co/papers/2601.17548",
+    "title": "Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems",
+    "date": "2026-01-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 102,
+    "id": "hf-search:2502.05174",
+    "url": "https://huggingface.co/papers/2502.05174",
+    "title": "MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents",
+    "date": "2025-02-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 103,
+    "id": "hf-search:2506.08837",
+    "url": "https://huggingface.co/papers/2506.08837",
+    "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+    "date": "2025-06-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 104,
+    "id": "hf-search:2504.11703",
+    "url": "https://huggingface.co/papers/2504.11703",
+    "title": "Progent: Programmable Privilege Control for LLM Agents",
+    "date": "2025-04-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 105,
+    "id": "hf-search:2601.12449",
+    "url": "https://huggingface.co/papers/2601.12449",
+    "title": "AgenTRIM: Tool Risk Mitigation for Agentic AI",
+    "date": "2026-01-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 106,
+    "id": "hf-search:2601.10440",
+    "url": "https://huggingface.co/papers/2601.10440",
+    "title": "AgentGuardian: Learning Access Control Policies to Govern AI Agent Behavior",
+    "date": "2026-01-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 107,
+    "id": "hf-search:2607.06000",
+    "url": "https://huggingface.co/papers/2607.06000",
+    "title": "Context-to-Execution Integrity for LLM Agents",
+    "date": "2026-07-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 108,
+    "id": "hf-search:2503.22738",
+    "url": "https://huggingface.co/papers/2503.22738",
+    "title": "ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning",
+    "date": "2025-03-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 109,
+    "id": "hf-search:2509.23994",
+    "url": "https://huggingface.co/papers/2509.23994",
+    "title": "Policy-as-Prompt: Turning AI Governance Rules into Guardrails for AI Agents",
+    "date": "2025-09-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 110,
+    "id": "hf-search:2604.15579",
+    "url": "https://huggingface.co/papers/2604.15579",
+    "title": "Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility",
+    "date": "2026-04-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 111,
+    "id": "hf-search:2508.10991",
+    "url": "https://huggingface.co/papers/2508.10991",
+    "title": "MCP-Guard: A Multi-Stage Defense-in-Depth Framework for Securing Model Context Protocol in Agentic AI",
+    "date": "2026-01-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 112,
+    "id": "hf-search:2512.12594",
+    "url": "https://huggingface.co/papers/2512.12594",
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "date": "2026-03-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 113,
+    "id": "hf-search:2511.20597",
+    "url": "https://huggingface.co/papers/2511.20597",
+    "title": "BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents",
+    "date": "2025-11-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 114,
+    "id": "hf-search:2505.05849",
+    "url": "https://huggingface.co/papers/2505.05849",
+    "title": "AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents",
+    "date": "2025-05-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 115,
+    "id": "hf-search:2411.10323",
+    "url": "https://huggingface.co/papers/2411.10323",
+    "title": "The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use",
+    "date": "2024-11-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 116,
+    "id": "hf-search:2405.15793",
+    "url": "https://huggingface.co/papers/2405.15793",
+    "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+    "date": "2024-05-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 117,
+    "id": "hf-search:2604.14228",
+    "url": "https://huggingface.co/papers/2604.14228",
+    "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+    "date": "2026-04-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 118,
+    "id": "hf-search:2506.08119",
+    "url": "https://huggingface.co/papers/2506.08119",
+    "title": "SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents",
+    "date": "2026-02-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 119,
+    "id": "hf-search:2607.26791",
+    "url": "https://huggingface.co/papers/2607.26791",
+    "title": "SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response",
+    "date": "2026-07-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 120,
+    "id": "hf-search:2602.07652",
+    "url": "https://huggingface.co/papers/2602.07652",
+    "title": "Agent-Fence: Mapping Security Vulnerabilities Across Deep Research Agents",
+    "date": "2026-02-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 121,
+    "id": "hf-search:2602.23367",
+    "url": "https://huggingface.co/papers/2602.23367",
+    "title": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance",
+    "date": "2025-12-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 122,
+    "id": "hf-search:2610.09087",
+    "url": "https://huggingface.co/papers/2610.09087",
+    "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+    "date": "2026-10-06",
+    "source": "hf-search"
+  }
+]

@@ -12,6 +12,7 @@ NEVER put secrets inside a sandbox: an agent that reads attacker-controlled web 
 running commands there. The Docker sandbox therefore runs with `--network none`.
 """
 import os
+import re
 import subprocess
 import sys
 import uuid
@@ -27,6 +28,29 @@ load_dotenv()
 
 DEFAULT_IMAGE = os.getenv("SANDBOX_IMAGE", "python:3.12-slim")
 MAX_OUTPUT_CHARS = 100_000
+
+
+class FastDaytonaSandbox(DaytonaSandbox):
+    """Daytona sandbox backend that skips redundant sleep commands."""
+
+    def execute(self, command: str, *, timeout: int | None = None) -> ExecuteResponse:
+        if re.search(r"\bsleep\s+\d+", command):
+            return ExecuteResponse(
+                output="Notice: sleep command is skipped. Subagents execute synchronously and all results are already available. Proceed directly to inspecting notes or running python scripts.",
+                exit_code=0,
+                truncated=False,
+            )
+        return super().execute(command, timeout=timeout)
+
+    async def aexecute(self, command: str, *, timeout: int | None = None) -> ExecuteResponse:
+        if re.search(r"\bsleep\s+\d+", command):
+            return ExecuteResponse(
+                output="Notice: sleep command is skipped. Subagents execute synchronously and all results are already available. Proceed directly to inspecting notes or running python scripts.",
+                exit_code=0,
+                truncated=False,
+            )
+        return await super().aexecute(command, timeout=timeout)
+
 
 
 class DockerSandbox(BaseSandbox):
@@ -52,6 +76,12 @@ class DockerSandbox(BaseSandbox):
         return self._name
 
     def execute(self, command, *, timeout=None):
+        if re.search(r"\bsleep\s+\d+", command):
+            return ExecuteResponse(
+                output="Notice: sleep command is skipped. Subagents execute synchronously and all results are already available. Proceed directly to inspecting notes or running python scripts.",
+                exit_code=0,
+                truncated=False,
+            )
         timeout = timeout or 120
         try:
             # the output is capped INSIDE the container: the host never buffers more than MAX_OUTPUT_CHARS
@@ -119,7 +149,7 @@ def open_sandbox(kind=None):
         box = client.create(CreateSandboxFromSnapshotParams(network_block_all=True, ephemeral=True,
                                                             auto_stop_interval=30))
         try:
-            yield DaytonaSandbox(sandbox=box)
+            yield FastDaytonaSandbox(sandbox=box)
         finally:
             _cleanup_with_fallback(box.stop, lambda: client.delete(box))  # ephemeral: stop() already removes it
     elif kind == "docker":
